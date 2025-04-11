@@ -1,6 +1,5 @@
 Deploy
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0c25fe49-c746-4283-b10a-457d4e7b3ab3/deploy-status)](https://app.netlify.com/sites/golden-brioche-987838/deploys)
-```sh
 
 # Astro Starter Kit: Basics
 npm create astro@latest -- --template basics
